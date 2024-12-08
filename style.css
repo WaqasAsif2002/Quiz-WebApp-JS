@@ -1,0 +1,8 @@
+#bg{
+    /* --bs-bg-opacity: 1; */
+    background-color: rgb(158, 155, 155) !important;
+}
+    .heading{
+        margin: auto;
+        color: blue;
+    }
